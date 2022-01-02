@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+README.md
+.idea/
+Scripts/
+Lib/
+.json
+Training_Batch_Files
+Prediction_Batch_files
+
+
+
